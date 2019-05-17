@@ -16,10 +16,11 @@ Above example contains URL for raspberry pi os iso file which is of 2.4GB<br/>
 Download-Manager : ~2.6 Mins
 Chrome           : ~6 Mins
 ```
+![CAPTURE](/docs/Capture.JPG)
 
 # Info
 This Program downloads file by creating Multiple Threads and downloads Chunks of data.
 As there are many Threads most of the available bandwidth is used by our program.<br/>
 
 # Note
-This works only for the files that support CHUNK based downloading. <br/>
+This works only for the URLs that support downloading in CHUNKS <br/>
