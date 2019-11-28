@@ -5,7 +5,7 @@ Download Files from Internet at maximum speed possible
 Any Windows System with Python v2 Installed
 
 ## Usage
-Simpy Run the Python File from Command Prompt by passed file URL as an argument. Downloaded file will be available in C:/Downloads <br/>
+Simply Run the Python File from Command Prompt by passed file URL as an argument. Downloaded file will be available in C:/Downloads <br/>
 ```bash
 C:\Users\username\download-Manager>py -2 downloader.py http://director.downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2019-04-12/2019-04-11-rpd-x86-stretch.iso
 ```
